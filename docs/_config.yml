@@ -1,4 +1,4 @@
-repository: fastai/nbdev_template
+repository: hoelzl/tc_fastai_examples
 output: web
 topnav_title: nbdev_template
 site_title: nbdev_template
