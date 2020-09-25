@@ -1,4 +1,12 @@
-# nbdev template
+# Fast.ai Course
 
-Use this template to more easily create your nbdev project.
+
+
+```python
+print("Fast.ai, here we come.")
+print("Let's go!")
+```
+
+    Fast.ai, here we come.
+    Let's go!
 
